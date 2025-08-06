@@ -1,0 +1,54 @@
+## Account Management
+
+**Q: How do I create an account?**
+A: You can create an account by clicking the "Sign Up" button on our homepage. You will need to provide a valid email address and create a password.
+
+**Q: I forgot my password. What should I do?**
+A: If you've forgotten your password, click the "Forgot Password" link on the login page. Enter your email address, and we will send you a link to reset your password.
+
+**Q: How can I update my personal information?**
+A: You can update your personal information, such as your shipping address or phone number, in the "Account Settings" section of your profile after logging in.
+
+**Q: How do I delete my account?**
+A: To delete your account, please contact our customer support team through the "Help" section. They will guide you through the process.
+
+## Ordering & Payments
+
+**Q: What payment methods do you accept?**
+A: We accept all major credit cards, including Visa, MasterCard, and American Express. We also accept payments through PayPal.
+
+**Q: Is my personal information secure?**
+A: Yes, we use industry-standard SSL encryption to protect your personal and payment information. Your security is our top priority.
+
+**Q: How do I make changes to an order I've already placed?**
+A: If you need to change an order, please contact customer support as soon as possible. If the order has not yet been shipped, we can make changes.
+
+**Q: Can I cancel my order?**
+A: You can cancel your order within 24 hours of placing it, provided it has not already been shipped. Please contact us immediately to request a cancellation.
+
+## Shipping & Delivery
+
+**Q: What are the shipping options?**
+A: We offer standard and expedited shipping. Standard shipping typically takes 5-7 business days, while expedited shipping takes 2-3 business days.
+
+**Q: How can I track my order?**
+A: Once your order has shipped, you will receive an email with a tracking number. You can use this number on the carrier's website to track your package.
+
+**Q: What countries do you ship to?**
+A: We currently ship to the United States, Canada, and the United Kingdom. We are working on expanding to more countries in the future.
+
+## Returns & Exchanges
+
+**Q: What is your return policy?**
+A: We offer a 30-day return policy on all unused items. The items must be in their original packaging. Please visit our "Returns" page for more details.
+
+**Q: What do I do if I receive a defective or damaged order?**
+A: If your order arrives damaged, please contact us within 7 days of receipt. We will arrange for a replacement or a full refund.
+
+## Product Information
+
+**Q: How is the product made?**
+A: Our products are manufactured using high-quality, ethically sourced materials. We adhere to strict quality control standards to ensure every product meets our expectations.
+
+**Q: Are your products under warranty?**
+A: Yes, all of our products come with a one-year limited warranty that covers manufacturing defects. This does not cover damage from normal wear and tear.

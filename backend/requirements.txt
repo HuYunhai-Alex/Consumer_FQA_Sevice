@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+google-generativeai
+pydantic
+python-multipart
+faiss-cpu
+sentence-transformers
+Pillow
+numpy
+pytest
