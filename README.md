@@ -58,4 +58,3 @@ The frontend application will be accessible at `http://localhost:3001`.
 2.  Use the chat interface to ask a question.
 3.  If the AI can find an answer in the knowledge base, it will be displayed.
 4.  If not, a ticket will be created. You can view the tickets by clicking the "View Tickets" button.
-# Genspark_HW
