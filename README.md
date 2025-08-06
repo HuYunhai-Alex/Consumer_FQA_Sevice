@@ -4,13 +4,7 @@ This project is a customer FAQ system that uses an AI-powered chat interface to 
 
 ## Product Preview
 
-<video
-  src="./assets/vedio.mp4"
-  autoplay
-  muted
-  playsinline
-  style="max-width: 100%; border-radius: 8px;"
-></video>
+![Product Preview](./assets/preview.gif)
 
 ## Key Features
 
